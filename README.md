@@ -1,2 +1,2 @@
-# Front_End_Odevler
+# Front End Ödevler 
 Başlangıç Seviye Frontend Web Development Patikası Ödevler (Patika.dev)
